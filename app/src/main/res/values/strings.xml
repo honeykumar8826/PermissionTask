@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PermissionTask</string>
+    <string name="cam_permission">Cam Permission</string>
+    <string name="next_page">Next Page</string>
+</resources>
